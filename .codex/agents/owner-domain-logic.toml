@@ -1,0 +1,8 @@
+role = "owner"
+capability = "domain.logic"
+label = "Domain Logic"
+git_identity = "owner-domain-logic@local"
+github_identity = "@nyartsgnaw"
+codex_identity = "owner-domain-logic"
+suite_ids = []
+playbooks = []

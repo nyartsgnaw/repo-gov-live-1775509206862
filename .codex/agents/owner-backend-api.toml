@@ -1,0 +1,8 @@
+role = "owner"
+capability = "backend.api"
+label = "Backend API"
+git_identity = "owner-backend-api@local"
+github_identity = "@nyartsgnaw"
+codex_identity = "owner-backend-api"
+suite_ids = []
+playbooks = []

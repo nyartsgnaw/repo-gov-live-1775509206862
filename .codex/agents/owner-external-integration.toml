@@ -1,0 +1,8 @@
+role = "owner"
+capability = "external.integration"
+label = "External Integration"
+git_identity = "owner-external-integration@local"
+github_identity = "@nyartsgnaw"
+codex_identity = "owner-external-integration"
+suite_ids = []
+playbooks = []

@@ -1,0 +1,8 @@
+role = "owner"
+capability = "llm.modeling"
+label = "LLM Modeling"
+git_identity = "owner-llm-modeling@local"
+github_identity = "@nyartsgnaw"
+codex_identity = "owner-llm-modeling"
+suite_ids = []
+playbooks = []

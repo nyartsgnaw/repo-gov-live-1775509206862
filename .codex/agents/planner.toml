@@ -1,0 +1,2 @@
+role = "planner"
+summary = "Maintains the file index, capability map, and ownership graph."
