@@ -1,0 +1,8 @@
+role = "owner"
+capability = "infra.workflow"
+label = "Infra Workflow"
+git_identity = "owner-infra-workflow@local"
+github_identity = "@nyartsgnaw"
+codex_identity = "owner-infra-workflow"
+suite_ids = []
+playbooks = []
